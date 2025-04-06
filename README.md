@@ -1,1 +1,1 @@
-this is a game called simon says
+this is a game called simon say.
